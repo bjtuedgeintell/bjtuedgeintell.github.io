@@ -5,8 +5,7 @@ title: Team
 nav: true
 ---
 
-# Team Leader
-<br>
+# **Team Leader**
 <table  rules="none">
 	<tr>
 		<td width="150">
@@ -14,7 +13,7 @@ nav: true
 			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Prof. Dr. Chuntao Ding</b>（丁春涛）<br/>
 <!--                                     Director & PI <br/> -->
@@ -30,10 +29,8 @@ nav: true
 <br>
 <br>
 
-# Current team members
-<br>
-
-## Ph.D Student
+# **Current team members**
+## *Ph.D Student*
 <br>
 <table  rules="none">
 	<tr>
@@ -42,7 +39,7 @@ nav: true
 			<img src="/assets/img/yujinhui.png" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Jinhui Yu</b>（于锦汇）<br/>
                                     Research Interests: <i>Edge Intelligence, Knowledge Distillation</i> <br/>
@@ -63,7 +60,7 @@ nav: true
 			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
                                     Research Interests: <i>Edge Intelligence</i> <br/>
@@ -76,7 +73,7 @@ nav: true
 <br>
 <br>
 
-## Master Student
+## *Master Student*
 <table  rules="none">
 	<tr>
 		<td width="150">
@@ -84,7 +81,7 @@ nav: true
 			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Zizhuo Cao</b>（曹子卓） <br/>
 <!--                                     Director & PI <br/> -->
@@ -106,7 +103,7 @@ nav: true
 			<img src="/assets/img/jhx.png" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Jianhang Xie</b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
@@ -129,7 +126,7 @@ nav: true
 			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Zhuo Liu</b>（刘茁）<br/>
 <!--                                     Director & PI <br/> -->
@@ -151,7 +148,7 @@ nav: true
 			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="600" >
 			<left>
 				<font size="4"><b>Juan Li</b>（李娟）<br/>
 <!--                                     Director & PI <br/> -->
@@ -166,11 +163,9 @@ nav: true
 <br>
 <br>
 
-# Former team members
+# **Former team members**
+## *Doctor*
 <br>
 
-## Doctor
-<br>
-
-## Master
+## *Master*
 <br>
