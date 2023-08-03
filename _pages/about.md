@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
 
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 ### About us
-Welcome to the **BJTU Edge Intelligence Laboratory** ! Our team is initiated and established by [Prof. Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/).
+Welcome to the **BJTU Edge Intelligence Laboratory**! Our team is initiated by [Prof. Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/).
 Our laboratory is dedicated to the cutting-edge field of Edge Intelligence, where we explore the intersection of artificial intelligence and edge computing. 
 Our diverse and talented team comprises both Ph.D. and Master's students, each bringing unique perspectives and expertise to the table. 
 Together, we form a dynamic group that fosters creativity, collaboration, and a shared passion for pushing the boundaries of edge intelligence. 
