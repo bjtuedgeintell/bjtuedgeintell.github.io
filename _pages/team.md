@@ -7,15 +7,14 @@ nav: true
 
 # Team Leader
 <br>
-	
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Prof. Dr. Chuntao Ding <br/>
 <!--                                     Director & PI <br/> -->
@@ -29,21 +28,20 @@ nav: true
 </table>
 <br>
 <br>
-<br>
 
 # Current team members
 <br>
-<br>
 
 ## Ph.D Student
+<br>
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Jinhui Yu <br/>
 <!--                                     Director & PI <br/> -->
@@ -57,16 +55,15 @@ nav: true
 </table>
 <br>
 <br>
-<br>
 
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Jingyi Li <br/>
 <!--                                     Director & PI <br/> -->
@@ -80,17 +77,16 @@ nav: true
 </table>
 <br>
 <br>
-<br>
 
 ## Master Student
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Zizhuo Cao <br/>
 <!--                                     Director & PI <br/> -->
@@ -104,17 +100,15 @@ nav: true
 </table>
 <br>
 <br>
-<br>
-
 
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Jianhang Xie <br/>
 <!--                                     Director & PI <br/> -->
@@ -128,17 +122,15 @@ nav: true
 </table>
 <br>
 <br>
-<br>
-
 
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Zhuo Liu<br/>
 <!--                                     Director & PI <br/> -->
@@ -152,16 +144,15 @@ nav: true
 </table>
 <br>
 <br>
-<br>
 
 <table  rules="none">
 	<tr>
-		<td width="250">
+		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=230/>
 			</left>
 		</td>
-		<td width="400" >
+		<td width="200" >
 			<left>
 				<font size="4">Juan Li <br/>
 <!--                                     Director & PI <br/> -->
@@ -175,8 +166,6 @@ nav: true
 </table>
 <br>
 <br>
-<br>
-
 
 # Former team members
 <br>
