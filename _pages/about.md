@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-#### **About us**
+### About us
 Welcome to the **BJTU Edge Intelligence Laboratory** ! Our team is initiated and established by [Prof. Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/).
 Our laboratory is dedicated to the cutting-edge field of Edge Intelligence, where we explore the intersection of artificial intelligence and edge computing. 
 Our diverse and talented team comprises both Ph.D. and Master's students, each bringing unique perspectives and expertise to the table. 
@@ -27,8 +27,9 @@ At the Edge Intelligence Lab, our primary research theme revolves around ***Edge
 We are committed to advancing this field and making significant contributions to various domains, including IoT, smart cities, intelligence transportation, healthcare, and autonomous vehicles. 
 By harnessing the power of edge computing and machine learning, we aim to build efficient, secure, and intelligent systems that can operate seamlessly in real-time, right at the edge of the network.
 
-#### **For more info**
-Research Institute of School of Computer and Information Technology, Beijing Jiaotong University.
-Office: Integrating Innovation Center, 605 of Science and Technology Building of BJTU, Beijing 100091.
+### For more info
+**Research Institute** of *School of Computer and Information Technology*, *Beijing Jiaotong University*.
 
-[Github](https://github.com/bjtuedgeintell) / [Email](bjtuedgeintell@163.com) 
+**Office**: *Integrating Innovation Center*, 605 of *Science and Technology Building* of *BJTU*, *Beijing 100044*.
+
+[**Github**](https://github.com/bjtuedgeintell) / [**Email**](bjtuedgeintell@163.com) 
