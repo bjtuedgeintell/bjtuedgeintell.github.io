@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
+subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,16 +16,19 @@ social: true  # includes social icons at the bottom of the page
     </div>
 </div>
 
-Welcome to the **BJTU Edge Intelligence Laboratory**! 
+#### **About us**
+Welcome to the **BJTU Edge Intelligence Laboratory** ! Our team is initiated and established by [Prof. Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/).
 Our laboratory is dedicated to the cutting-edge field of Edge Intelligence, where we explore the intersection of artificial intelligence and edge computing. 
 Our diverse and talented team comprises both Ph.D. and Master's students, each bringing unique perspectives and expertise to the table. 
 Together, we form a dynamic group that fosters creativity, collaboration, and a shared passion for pushing the boundaries of edge intelligence. 
 Led by a team of enthusiastic researchers, our mission is to develop innovative solutions that leverage the power of edge devices to process and analyze data locally, bringing intelligence closer to the source. 
 
-At the Edge Intelligence Lab, our primary research theme revolves around ***Edge Intelligence***, which explores the integration of ***artificial intelligence*** and ***machine learning*** algorithms into edge devices. 
+At the Edge Intelligence Lab, our primary research theme revolves around ***Edge Intelligence***, which explores the integration of ***Artificial Intelligence*** and ***Machine Learning*** algorithms into edge devices. 
 We are committed to advancing this field and making significant contributions to various domains, including IoT, smart cities, intelligence transportation, healthcare, and autonomous vehicles. 
 By harnessing the power of edge computing and machine learning, we aim to build efficient, secure, and intelligent systems that can operate seamlessly in real-time, right at the edge of the network.
 
+#### **For more info**
 Research Institute of School of Computer and Information Technology, Beijing Jiaotong University.
 Office: Integrating Innovation Center, 605 of Science and Technology Building of BJTU, Beijing 100091.
+
 [Github](https://github.com/bjtuedgeintell) / [Email](bjtuedgeintell@163.com) 
