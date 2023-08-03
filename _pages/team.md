@@ -5,7 +5,7 @@ title: Team
 nav: true
 ---
 
-# **Team Leader**
+# **Principal Investigator**
 <table  rules="none">
 	<tr>
 		<td width="150">
