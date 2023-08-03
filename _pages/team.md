@@ -11,14 +11,14 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Prof. Dr. Chuntao Ding <br/>
+				<font size="4"><b>Prof. Dr. Chuntao Ding</b>（丁春涛）<br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence, Model Compression & Quantization, Multi-task learning <br/>
+                                    Research Interests: <i>Edge Intelligence, Model Compression & Quantization, Multi-task learning</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
@@ -38,16 +38,15 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/yujinhui.png" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Jinhui Yu <br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence, Knowledge Distillation <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+				<font size="4"><b>Jinhui Yu</b>（于锦汇）<br/>
+                                    Research Interests: <i>Edge Intelligence, Knowledge Distillation</i> <br/>
+				     Jinhui Yu received the BS and MS degrees from Northeastern University, Shenyang, China, in 2018 and 2021 respectively. He is currently working toward the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. His research interests include edge intelligence and deep learning. <br/>
+				<a href="mailto:chuntaoding@163.com">[Email]   </a>
 				</font> 
 			</left>
 		</td>
@@ -60,16 +59,14 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Jingyi Li <br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
+                                    Research Interests: <i>Edge Intelligence</i> <br/>
+				<a href="mailto:chuntaoding@163.com">[Email]</a>
 				</font> 
 			</left>
 		</td>
@@ -83,14 +80,14 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Zizhuo Cao <br/>
+				<font size="4"><b>Zizhuo Cao</b>（曹子卓） <br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence <br/>
+                                    Research Interests: <i>Edge Intelligence</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
@@ -105,14 +102,14 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Jianhang Xie <br/>
+				<font size="4"><b>Jianhang Xie</b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence, Quantizaiton and HPC <br/>
+                                    Research Interests: <i>Edge Intelligence, Quantizaiton and HPC</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
@@ -127,14 +124,14 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Zhuo Liu<br/>
+				<font size="4"><b>Zhuo Liu</b>（刘茁）<br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence <br/>
+                                    Research Interests: <i>Edge Intelligence</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
@@ -149,14 +146,14 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=230/>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left>
 		</td>
-		<td width="200" >
+		<td width="400" >
 			<left>
-				<font size="4">Juan Li <br/>
+				<font size="4"><b>Juan Li</b>（李娟）<br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: Edge Intelligence <br/>
+                                    Research Interests: <i>Edge Intelligence</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
