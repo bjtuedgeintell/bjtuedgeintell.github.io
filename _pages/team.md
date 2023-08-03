@@ -17,7 +17,7 @@ nav: true
 			<left>
 				<font size="4"><b>Prof. Dr. Chuntao Ding</b>（丁春涛）<br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence, Model Compression & Quantization, Multi-task learning</i> <br/>
+                                    Research Interests: <i>Edge Intelligence, Model Compression & Quantization, Multi-task Learning, Software and Hardware Adaptation</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
 									<a href="https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a>
 					<a href="https://dblp.org/pid/150/4003.html">[DBLP]   </a>
@@ -107,7 +107,7 @@ nav: true
 			<left>
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence, Quantizaiton and HPC</i> <br/>
+                                    Research Interests: <i>Edge Intelligence, Quantizaiton, High Performance Computing</i> <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://github.com/jianhayes">[Github]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
