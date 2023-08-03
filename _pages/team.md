@@ -20,7 +20,8 @@ nav: true
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Model Compression & Quantization, Multi-task learning</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+									<a href="https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a>
+					<a href="https://dblp.org/pid/150/4003.html">[DBLP]   </a>
 				</font> 
 			</left>
 		</td>
@@ -102,7 +103,7 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=100/>
+			<img src="/assets/img/jhx.png" width=100/>
 			</left>
 		</td>
 		<td width="400" >
@@ -110,7 +111,8 @@ nav: true
 				<font size="4"><b>Jianhang Xie</b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Quantizaiton and HPC</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
+									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
+									<a href="https://github.com/jianhayes">[Github]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
 			</left>
