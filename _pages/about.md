@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a> <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University</a>
+subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a> <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: background2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the **BJTU Edge Intelligence Laboratory**! Our laboratory is dedicated to the cutting-edge field of Edge Intelligence, where we explore the intersection of artificial intelligence and edge computing. Our diverse and talented team comprises both Ph.D. and Master's students, each bringing unique perspectives and expertise to the table. Together, we form a dynamic group that fosters creativity, collaboration, and a shared passion for pushing the boundaries of edge intelligence. Led by a team of enthusiastic researchers, our mission is to develop innovative solutions that leverage the power of edge devices to process and analyze data locally, bringing intelligence closer to the source. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At the Edge Intelligence Lab, our primary research theme revolves around **Edge Intelligence**, which explores the integration of *artificial intelligence* and *machine learning* algorithms into edge devices. We are committed to advancing this field and making significant contributions to various domains, including IoT, smart cities, intelligence transportation, healthcare, and autonomous vehicles. By harnessing the power of edge computing and machine learning, we aim to build efficient, secure, and intelligent systems that can operate seamlessly in real-time, right at the edge of the network.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Research Institute of School of Computer and Information Technology, Beijing Jiaotong University.
+Office: Integrating Innovation Center, 605 of Science and Technology Building of BJTU, Beijing 100091.
+[Github](https://github.com/bjtuedgeintell) / [Email](bjtuedgeintell@163.com) 
