@@ -105,7 +105,7 @@ nav: true
 		</td>
 		<td width="600" >
 			<left>
-				<font size="4"><b>Jianhang Xie</b>（谢建行）<br/>
+				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Quantizaiton and HPC</i> <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
