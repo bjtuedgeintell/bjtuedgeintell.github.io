@@ -5,7 +5,7 @@ title: Team
 nav: true
 ---
 
-### Team Leader
+# Team Leader
 <br>
 	
 <table  rules="none">
@@ -31,7 +31,7 @@ nav: true
 <br>
 <br>
 
-### Current team members
+# Current team members
 <br>
 <br>
 
@@ -178,10 +178,11 @@ nav: true
 <br>
 
 
-### Former team members
-<br>
+# Former team members
 <br>
 
 ## Doctor
+<br>
 
 ## Master
+<br>
