@@ -24,7 +24,7 @@ Together, we form a dynamic group that fosters creativity, collaboration, and a 
 Led by a team of enthusiastic researchers, our mission is to develop innovative solutions that leverage the power of edge devices to process and analyze data locally, bringing intelligence closer to the source. 
 
 At the Edge Intelligence Lab, our primary research theme revolves around ***Edge Intelligence***, which explores the integration of ***Artificial Intelligence*** and ***Machine Learning*** algorithms into edge devices. 
-We are committed to advancing this field and making significant contributions to various domains, including IoT, smart cities, intelligence transportation, healthcare, and autonomous vehicles. 
+We are committed to advancing this field and making significant contributions to various domains, including IoT, smart cities, intelligent transportation, healthcare, and autonomous vehicles. 
 By harnessing the power of edge computing and machine learning, we aim to build efficient, secure, and intelligent systems that can operate seamlessly in real-time, right at the edge of the network.
 
 ### For more info
