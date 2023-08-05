@@ -108,6 +108,7 @@ nav: true
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Quantizaiton, High Performance Computing</i> <br/>
+					I have received the BS degree from School of CIT, BJTU in 2022. Now I'm pursuing MS degree from the Key Laboratory of Big Data & Artificial Intelligence in Transportation(BAT), Ministry of Education, with School of CIT, BJTU. My PG academic advisors are Prof. Li and Prof. Ding.  My research interest includes <i>Neural Network Quantization, Lightweight Neural Network (Design & Device Deployment & Inference)</i> and <i>High Performance Computing</i>. <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://github.com/jianhayes">[Github]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
