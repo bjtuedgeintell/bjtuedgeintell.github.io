@@ -108,7 +108,7 @@ nav: true
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Quantizaiton, High Performance Computing</i> <br/>
-					I have received the BS degree from School of CIT, BJTU in 2022. Now I'm pursuing MS degree from the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of CIT, BJTU. My PG academic advisors are Prof. Li and Prof. Ding.  My research interest includes <i>neural network quantization</i>, <i>lightweight neural network (design, deploy & inference)</i> and <i>high performance computing</i>. <br/>
+					I have received the BS degree from BJTU in 2022. Now I'm pursuing MS degree from School of Computer and Information Technology, BJTU. My PG academic advisors are Prof. Li and Prof. Ding. I'm also a member of the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. My research interest includes <i>neural network quantization</i>, <i>lightweight neural network (design, deploy & inference)</i> and <i>high performance computing</i>. <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://github.com/jianhayes">[Github]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
@@ -163,6 +163,51 @@ nav: true
 </table>
 <br>
 <br>
+
+<table  rules="none">
+	<tr>
+		<td width="150">
+			<left>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
+			</left>
+		</td>
+		<td width="600" >
+			<left>
+				<font size="4"><b>Longquan Zhang</b>（张龙泉）<br/>
+<!--                                     Director & PI <br/> -->
+                                    Research Interests: <i>Edge Intelligence</i> <br/>
+									<a href="mailto:chuntaoding@163.com">[Email]   </a>
+<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+				</font> 
+			</left>
+		</td>
+    </tr>
+</table>
+<br>
+<br>
+
+<table  rules="none">
+	<tr>
+		<td width="150">
+			<left>
+			<img src="/assets/img/prof_pic.jpg" width=100/>
+			</left>
+		</td>
+		<td width="600" >
+			<left>
+				<font size="4"><b>Xun Cao</b>（曹旭）<br/>
+<!--                                     Director & PI <br/> -->
+                                    Research Interests: <i>Edge Intelligence</i> <br/>
+									<a href="mailto:chuntaoding@163.com">[Email]   </a>
+<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+				</font> 
+			</left>
+		</td>
+    </tr>
+</table>
+<br>
+<br>
+
 
 # **Former team members**
 ## *Doctor*
