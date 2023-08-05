@@ -195,7 +195,7 @@ nav: true
 		</td>
 		<td width="600" >
 			<left>
-				<font size="4"><b>Xun Cao</b>（曹旭）<br/>
+				<font size="4"><b>Xu Cao</b>（曹旭）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence</i> <br/>
 									<a href="mailto:chuntaoding@163.com">[Email]   </a>
