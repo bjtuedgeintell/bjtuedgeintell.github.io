@@ -25,7 +25,7 @@ Led by a team of enthusiastic researchers, our mission is to develop innovative 
 
 At the Edge Intelligence Lab, our primary research theme revolves around ***Edge Intelligence***, which explores the integration of ***Artificial Intelligence*** and ***Machine Learning*** algorithms into edge devices. 
 We are committed to advancing this field and making significant contributions to various domains, including IoT, smart cities, intelligent transportation, healthcare, and autonomous vehicles. 
-By harnessing the power of edge computing and machine learning, we aim to build efficient, secure, and intelligent systems that can operate seamlessly in real-time, right at the edge of the network.
+By harnessing the power of edge computing and machine learning, we aim to build ***intelligent***, ***efficient***, and ***secure*** systems that can operate seamlessly in real-time, right at the edge of the network.
 
 ### For more info
 **Research Institute**: *School of Computer and Information Technology*, *Beijing Jiaotong University*.
