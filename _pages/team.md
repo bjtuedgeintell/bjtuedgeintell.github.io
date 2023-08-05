@@ -43,7 +43,7 @@ nav: true
 			<left>
 				<font size="4"><b>Jinhui Yu</b>（于锦汇）<br/>
                                     Research Interests: <i>Edge Intelligence, Knowledge Distillation</i> <br/>
-				     Jinhui Yu received the BS and MS degrees from Northeastern University, Shenyang, China, in 2018 and 2021 respectively. He is currently working toward the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. His research interests include edge intelligence and deep learning. <br/>
+				     Jinhui Yu received the BS and MS degrees from Northeastern University, Shenyang, China, in 2018 and 2021 respectively. He is currently working toward the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. His research interests include <i>edge intelligence</i> and <i>deep learning</i>. <br/>
 				<a href="mailto:chuntaoding@163.com">[Email]   </a>
 				</font> 
 			</left>
@@ -108,7 +108,7 @@ nav: true
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Quantizaiton, High Performance Computing</i> <br/>
-					I have received the BS degree from School of CIT, BJTU in 2022. Now I'm pursuing MS degree from the Key Laboratory of Big Data & Artificial Intelligence in Transportation(BAT), Ministry of Education, with School of CIT, BJTU. My PG academic advisors are Prof. Li and Prof. Ding.  My research interest includes <i>Neural Network Quantization, Lightweight Neural Network (Design & Device Deployment & Inference)</i> and <i>High Performance Computing</i>. <br/>
+					I have received the BS degree from School of CIT, BJTU in 2022. Now I'm pursuing MS degree from the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of CIT, BJTU. My PG academic advisors are Prof. Li and Prof. Ding.  My research interest includes <i>Neural Network Quantization</i>, <i>Lightweight Neural Network (Design & Device Deployment & Inference)</i> and <i>High Performance Computing</i>. <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://github.com/jianhayes">[Github]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
