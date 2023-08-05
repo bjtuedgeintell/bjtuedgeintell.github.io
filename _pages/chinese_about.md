@@ -1,15 +1,17 @@
 ---
-layout: page
+layout: chinesepage
 permalink: /chineseabout/
 title: 中文简介
+chinesetitle: <b>北京交通大学边缘智能小组</b>实验室
+subtitle: <a href='https://www.bjtu.edu.cn/'>北京交通大学</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://scit.bjtu.edu.cn/'>计算机与信息技术学院</a>
 nav: true
 nav_order: 5
 ---
-
+<!--
 # **北京交通大学边缘智能小组**实验室
 
 [北京交通大学](https://www.bjtu.edu.cn/) | [计算机与信息技术学院](http://scit.bjtu.edu.cn/)
-
+-->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/background2.jpg" title="BG" class="img-fluid rounded z-depth-1" %}
@@ -18,12 +20,12 @@ nav_order: 5
 
 ### **关于我们**
 欢迎来到**北京交通大学边缘智能小组实验室**！我们的团队由[Prof. Dr. 丁春涛](http://faculty.bjtu.edu.cn/9721/)发起与领导。
-我们实验室致力于边缘智能这一前沿领域，期望探索 **人工智能** 与 **边缘计算** 的交叉点。
+我们实验室致力于边缘智能这一前沿领域，期望探索**人工智能**与**边缘计算**的交叉点。
 我们的团队人才济济，包括博士生与硕士生，每个人都能带来独特的见解与专业知识。
 我们一同组成了充满活力的团队，培养创造力、合作精神与推动边缘智能发展的激情。
 在[Prof. Dr. 丁春涛](http://faculty.bjtu.edu.cn/9721/)与充满热情的研究团队的带领下，我们的使命是开发创新解决方案，利用边缘设备的强大功能在本地处理和分析数据，使智能更接近数据源。
 
-在边缘智能小组实验室，我们的主要研究主题围绕 **边缘智能** 展开，探索如何将 **人工智能** 和 **机器学习** 算法集成到边缘设备中。
+在边缘智能小组实验室，我们的主要研究主题围绕**边缘智能**展开，探索如何将**人工智能**和**机器学习**算法集成到边缘设备中。
 我们致力于推动这一领域的发展，为物联网、智慧城市、智能交通、医疗保健和自动驾驶汽车等各个领域做出贡献。
 通过结合边缘计算和机器学习的力量，我们旨在构建高效、安全的智能系统，使其能够在网络边缘实时无缝运行。
 
@@ -35,29 +37,29 @@ nav_order: 5
 [**Github**](https://github.com/bjtuedgeintell) / [**邮箱**](bjtuedgeintell@163.com) 
 
 ### **个人简介**
-
+待更新
 
 
 ### **学习与工作经历**
-
+待更新
 
 
 ### **研究领域**
-
+待更新
 
 
 ### **科研项目**
+待更新
 
 
-
-### 教学课程
-
-
-
-### 获奖荣誉
+### **教学课程**
+待更新
 
 
+### **获奖荣誉**
+待更新
 
-### 学术兼职
 
+### **学术兼职**
+待更新
 
