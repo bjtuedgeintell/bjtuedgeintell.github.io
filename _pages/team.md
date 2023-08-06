@@ -85,7 +85,7 @@ nav: true
 			<left>
 				<font size="4"><b>Zizhuo Cao</b>（曹子卓） <br/>
                                     Research Interests: <i>Multi-Task Learning</i> <br/>
-				Zizhuo Cao is pursuing a MS degree in the School of Computer and Information Technology at Beijing Jiaotong University.
+				Zizhuo Cao is pursuing a MS degree in the School of Computer and Information Technology at Beijing Jiaotong University.<br/>
 				<a href="mailto:ninelie216@gmail.com">[Email]   </a>
 				</font> 
 			</left>
