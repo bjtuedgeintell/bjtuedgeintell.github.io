@@ -78,16 +78,15 @@ nav: true
 	<tr>
 		<td width="150">
 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=100/>
+			<img src="/assets/img/caozizhuo.png" width=100/>
 			</left>
 		</td>
 		<td width="600" >
 			<left>
 				<font size="4"><b>Zizhuo Cao</b>（曹子卓） <br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+                                    Research Interests: <i>Multi-Task Learning</i> <br/>
+				Zizhuo Cao is pursuing a MS degree in the School of Computer and Information Technology at Beijing Jiaotong University.
+				<a href="mailto:ninelie216@gmail.com">[Email]   </a>
 				</font> 
 			</left>
 		</td>
