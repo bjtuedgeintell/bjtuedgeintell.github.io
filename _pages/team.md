@@ -56,15 +56,16 @@ nav: true
 <table  rules="none">
 	<tr>
 		<td width="150">
-			<left>
+<!-- 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left>
+			</left> -->
 		</td>
 		<td width="600" >
 			<left>
 				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
-                                    Research Interests: <i>Edge Intelligence</i> <br/>
-				<a href="mailto:chuntaoding@163.com">[Email]</a>
+                                    Research Interests: <i>Edge Intelligence, Cyber security</i> <br/>
+Jingyi Li received the B.Sc. degree from Central China Normal University, China, in 2017. He is currently pursuing the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, China. His main research interests lie in <i>cyber security</i> and <i>deep learning</i>.<br/>
+				<a href="mailto:22110139@bjtu.edu.cn">[Email]</a>
 				</font> 
 			</left>
 		</td>
