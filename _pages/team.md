@@ -8,10 +8,10 @@ nav: true
 # **Principal Investigator**
 <table  rules="none">
 	<tr>
-		<td width="150">
+<!-- 		<td width="150">
 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left>
+			</left> -->
 		</td>
 		<td width="600" >
 			<left>
@@ -123,9 +123,9 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="150">
-			<left>
+<!-- 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left>
+			</left> -->
 		</td>
 		<td width="600" >
 			<left>
@@ -145,9 +145,9 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="150">
-			<left>
+<!-- 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left>
+			</left> -->
 		</td>
 		<td width="600" >
 			<left>
@@ -167,9 +167,9 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="150">
-			<left>
+<!-- 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left>
+			</left> -->
 		</td>
 		<td width="600" >
 			<left>
@@ -189,9 +189,9 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="150">
-			<left>
+<!-- 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left>
+			</left> -->
 		</td>
 		<td width="600" >
 			<left>
