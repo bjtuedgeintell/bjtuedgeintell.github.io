@@ -18,7 +18,7 @@ nav: true
 				<font size="4"><b>Prof. Dr. Chuntao Ding</b>（丁春涛）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Model Compression & Quantization, Multi-task Learning, Software and Hardware Adaptation</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
+									<a href="mailto:chtding@bjtu.edu.cn">[Email]   </a>
 									<a href="https://scholar.google.com/citations?user=MVlO39QAAAAJ&hl=zh-CN&oi=ao">[Google Scholar]</a>
 					<a href="https://dblp.org/pid/150/4003.html">[DBLP]   </a>
 				</font> 
