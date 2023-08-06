@@ -32,4 +32,4 @@ By harnessing the power of edge computing and machine learning, we aim to build 
 
 **Office**: *Integrating Innovation Center BJTU*, *605* of *Science and Technology Building of BJTU*, *Beijing 100044*.
 
-[**Github**](https://github.com/bjtuedgeintell) / [**Email**](bjtuedgeintell@163.com) 
+[**Github**](https://github.com/bjtuedgeintell) / [**Email**](chtding@bjtu.edu.cn) 
