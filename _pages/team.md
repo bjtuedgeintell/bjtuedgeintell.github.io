@@ -8,8 +8,8 @@ nav: true
 # **Principal Investigator**
 <table  rules="none">
 	<tr>
-<!-- 		<td width="150">
-			<left>
+		<td width="150">
+<!-- 			<left>
 			<img src="/assets/img/prof_pic.jpg" width=100/>
 			</left> -->
 		</td>
