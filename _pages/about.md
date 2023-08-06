@@ -7,7 +7,7 @@ subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 <div class="row">
@@ -28,8 +28,6 @@ We are committed to advancing this field and making significant contributions to
 By harnessing the power of edge computing and machine learning, we aim to build ***intelligent***, ***efficient*** and ***secure*** systems that can operate seamlessly in real-time, right at the edge of the network.
 
 ### For more info
-**Research Institute**: *School of Computer and Information Technology*, *Beijing Jiaotong University*.
-
-**Office**: *Integrating Innovation Center BJTU*, *605* of *Science and Technology Building of BJTU*, *Beijing 100044*.
-
-[**Github**](https://github.com/bjtuedgeintell) / [**Email**](chtding@bjtu.edu.cn) 
+**Research Institute**: *School of Computer and Information Technology*, *Beijing Jiaotong University*.<br>
+**Office**: *Integrating Innovation Center BJTU*, *605* of *Science and Technology Building of BJTU*, *Beijing 100044*.<br>
+[**Github**](https://github.com/bjtuedgeintell) / [**Email**](chtding@bjtu.edu.cn) <br>
