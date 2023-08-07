@@ -145,16 +145,16 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="150">
-<!-- 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=100/>
-			</left> -->
+			<left>
+			<img src="/assets/img/lijuan.jpg" width=100/>
+			</left>
 		</td>
 		<td width="600" >
 			<left>
 				<font size="4"><b>Juan Li</b>（李娟）<br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
+                                    Research Interests: <i>Edge Intelligence, Model Acceleration Training</i> <br/>
+					Juan Li received the BS degree from Hubei University of Science and Technology, XianNing, China, in 2021. During her sophomore year, she went to Wuhan University to study for one year as an exchange student. Currently, she is pursuing the MS degree from the School of Computer and Information Technology, Beijing Jiaotong University. Her research interests include <i>edge intelligence</i> and <i>model acceleration training</i>.<br/>
+									<a href="mailto:lijuan_yimi@163.com">[Email]   </a>
 <!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
 			</left>
