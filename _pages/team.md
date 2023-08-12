@@ -64,7 +64,7 @@ nav: true
 			<left>
 				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
                                     Research Interests: <i>Edge Intelligence, Cyber security</i> <br/>
-Jingyi Li received the B.S. degree from Central China Normal University, China, in 2017. He is currently pursuing the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, China. His main research interests lie in <i>cyber security</i> and <i>deep learning</i>.<br/>
+Jingyi Li received the B.Sc. degree from Central China Normal University, China, in 2017. He is currently pursuing the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, China. His main research interests lie in <i>cyber security</i> and <i>deep learning</i>.<br/>
 				<a href="mailto:22110139@bjtu.edu.cn">[Email]</a>
 				</font> 
 			</left>
