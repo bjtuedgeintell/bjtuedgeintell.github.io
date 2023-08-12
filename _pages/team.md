@@ -64,7 +64,7 @@ nav: true
 			<left>
 				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
                                     Research Interests: <i>Edge Intelligence, Cyber security</i> <br/>
-Jingyi Li received the B.Sc. degree from Central China Normal University, China, in 2017. He is currently pursuing the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, China. His main research interests lie in <i>cyber security</i> and <i>deep learning</i>.<br/>
+Jingyi Li received the B.S. degree from Central China Normal University, China, in 2017. He is currently pursuing the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, China. His main research interests lie in <i>cyber security</i> and <i>deep learning</i>.<br/>
 				<a href="mailto:22110139@bjtu.edu.cn">[Email]</a>
 				</font> 
 			</left>
@@ -106,12 +106,10 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 		<td width="600" >
 			<left>
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
-<!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Quantizaiton, High Performance Computing</i> <br/>
 					I have received the BS degree from BJTU in 2022. Now I'm pursuing MS degree from School of Computer and Information Technology, BJTU. My PG academic advisors are Prof. Li and Prof. Ding. I'm also a member of the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. My research interest includes <i>neural network quantization (post-training quantization & data-free quantization)</i>, <i>lightweight neural network (design, deploy & inference)</i> and <i>high performance computing (heterogeneous computing)</i>. <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://github.com/jianhayes">[Github]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
 				</font> 
 			</left>
 		</td>
@@ -167,17 +165,16 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="180">
-<!-- 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=150/>
-			</left> -->
+ 			<left>
+			<img src="/assets/img/zhanglongquan.jpg" width=150/>
+			</left>
 		</td>
 		<td width="600" >
 			<left>
 				<font size="4"><b>Longquan Zhang</b>（张龙泉）<br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+                                    Research Interests: <i>Model Acceleration Training</i> <br/>
+					Longquan Zhang is pursuing a MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>model acceleration training</i>.<br/>
+									<a href="mailto:23125287@bjtu.edu.cn">[Email]   </a>
 				</font> 
 			</left>
 		</td>
