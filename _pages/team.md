@@ -29,8 +29,8 @@ nav: true
 <br>
 <br>
 
-# **Current team members**
-## *Ph.D Student*
+# **Current Team Members**
+## *Ph.D. Student*
 <br>
 <table  rules="none">
 	<tr>
@@ -205,7 +205,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <br>
 
 
-# **Former team members**
+# **Former Team Members**
 ## *Doctor*
 <br>
 
