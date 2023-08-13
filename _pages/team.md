@@ -194,7 +194,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 			<left>
 				<font size="4"><b>Xu Cao</b>（曹旭）<br/>
                                     Research Interests: <i>Model Acceleration Training</i> <br/>
-					Xu Cao is pursuing MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>model acceleration training.</i>.<br/>
+					Xu Cao is pursuing MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>model acceleration training</i>.<br/>
 									<a href="mailto:codecx@sina.com">[Email]   </a>
 				</font> 
 			</left>
