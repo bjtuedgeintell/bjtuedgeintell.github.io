@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
