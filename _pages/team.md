@@ -129,7 +129,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 			<left>
 				<font size="4"><b>Zhuo Liu</b>（刘茁）<br/>
                                     Research Interests: <i>Edge Intelligence, Muti-Task Learning</i> <br/>
-					Zhuo Liu is pursuing a MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>Muti-Task Learning</i>.<br/>
+					Zhuo Liu is pursuing a MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>muti-task learning</i>.<br/>
 									<a href="mailto:22140506@bjtu.edu.cn">[Email]   </a>
 				</font> 
 			</left>
