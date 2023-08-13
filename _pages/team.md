@@ -63,7 +63,7 @@ nav: true
 		<td width="600" >
 			<left>
 				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
-                                    Research Interests: <i>Edge Intelligence, Cyber security</i> <br/>
+                                    Research Interests: <i>Edge Intelligence, Cyber Security</i> <br/>
 Jingyi Li received the B.Sc. degree from Central China Normal University, China, in 2017. He is currently pursuing the PhD degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University, China. His main research interests lie in <i>cyber security</i> and <i>deep learning</i>.<br/>
 				<a href="mailto:22110139@bjtu.edu.cn">[Email]</a>
 				</font> 
@@ -186,17 +186,16 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="180">
-<!-- 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=150/>
-			</left> -->
+			<left>
+			<img src="/assets/img/caoxu.jpg" width=150/>
+			</left>
 		</td>
 		<td width="600" >
 			<left>
 				<font size="4"><b>Xu Cao</b>（曹旭）<br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+                                    Research Interests: <i>Model Acceleration Training</i> <br/>
+					Xu Cao is pursuing MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>model acceleration training.</i>.<br/>
+									<a href="mailto:codecx@sina.com">[Email]   </a>
 				</font> 
 			</left>
 		</td>
