@@ -121,17 +121,16 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <table  rules="none">
 	<tr>
 		<td width="180">
-<!-- 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=150/>
-			</left> -->
+			<left>
+			<img src="/assets/img/liuzhuo.jpg" width=150/>
+			</left>
 		</td>
 		<td width="600" >
 			<left>
 				<font size="4"><b>Zhuo Liu</b>（刘茁）<br/>
-<!--                                     Director & PI <br/> -->
-                                    Research Interests: <i>Edge Intelligence</i> <br/>
-									<a href="mailto:chuntaoding@163.com">[Email]   </a>
-<!-- 									<a href="https://scholar.google.com/citations?hl=zh-CN&user=k4SdlbcAAAAJ">[Google Scholar]</a> -->
+                                    Research Interests: <i>Edge Intelligence, Muti-Task Learning</i> <br/>
+					Zhuo Liu is pursuing a MS degree from School of Computer and Information Technology, BJTU. His research interest is <i>Muti-Task Learning</i>.<br/>
+									<a href="mailto:22140506@bjtu.edu.cn">[Email]   </a>
 				</font> 
 			</left>
 		</td>
