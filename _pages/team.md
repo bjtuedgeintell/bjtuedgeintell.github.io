@@ -100,7 +100,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 	<tr>
 		<td width="180">
 			<left>
-			<img src="/assets/img/jhx.png" width=150/>
+			<img src="/assets/img/jhx.jpg" width=150/>
 			</left>
 		</td>
 		<td width="600" >
