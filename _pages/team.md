@@ -205,7 +205,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 
 
 # **Former Team Members**
-## *Doctor*
+## *Ph.D.*
 <br>
 
 ## *Master*
