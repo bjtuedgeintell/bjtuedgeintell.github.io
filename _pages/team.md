@@ -9,9 +9,9 @@ nav: true
 <table  rules="none">
 	<tr>
 		<td width="180">
-<!-- 			<left>
-			<img src="/assets/img/prof_pic.jpg" width=150/>
-			</left> -->
+			<left>
+			<img src="/assets/img/chuntaoding.jpg" width=150/>
+			</left>
 		</td>
 		<td width="600" >
 			<left>
