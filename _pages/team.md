@@ -15,7 +15,7 @@ nav: true
 		</td>
 		<td width="600" >
 			<left>
-				<font size="4"><b>Prof. Dr. Chuntao Ding</b>（丁春涛）<br/>
+				<font size="4"><b>Dr. Chuntao Ding</b>（丁春涛）<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <i>Edge Intelligence, Model Compression, Multi-task Learning, Software and Hardware Adaptation</i> <br/>
 									<a href="mailto:chtding@bjtu.edu.cn">[Email]   </a>
