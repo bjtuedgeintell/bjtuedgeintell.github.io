@@ -107,7 +107,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 			<left>
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
                                     Research Interests: <i>Edge Intelligence, Model Compression, HPC</i> <br/>
-					I have received the BS degree from BJTU in 2022. Now I'm pursuing MS degree from School of Computer and Information Technology, BJTU. My academic advisors are Prof. Li and Prof. Ding. I'm also a member of the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. My research interest includes <i>data-free quantization</i>, <i>edge intelligence</i> and <i>high-performance computing</i>. <br/>
+					I have received the BS degree from BJTU in 2022. Now I'm pursuing MS degree from School of Computer and Information Technology, BJTU. My academic advisors are Prof. Li and Dr. Ding. I'm also a member of the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education. My research interest includes <i>data-free quantization</i>, <i>edge intelligence</i> and <i>high-performance computing</i>. <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 									<a href="https://github.com/jianhayes">[Github]   </a>
 				</font> 
