@@ -34,12 +34,12 @@ nav: true
 <br>
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
 			<left>
 			<img src="/assets/img/yujinhui.png" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Jinhui Yu</b>（于锦汇）<br/>
                                     Research Interests: <i>Edge Intelligence, Knowledge Distillation</i> <br/>
@@ -55,12 +55,12 @@ nav: true
 
 <table  rules="none">
 	<tr>
-		<td width="180">
-<!-- 			<left>
+<!-- 		<td width="180">
+			<left>
 			<img src="/assets/img/prof_pic.jpg" width=150/>
-			</left> -->
+			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Jingyi Li</b>（李境一） <br/>
                                     Research Interests: <i>Edge Intelligence, Cyber Security</i> <br/>
@@ -77,12 +77,12 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 ## *Master Student*
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
 			<left>
 			<img src="/assets/img/caozizhuo.png" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Zizhuo Cao</b>（曹子卓） <br/>
                                     Research Interests: <i>Multi-Task Learning</i> <br/>
@@ -98,12 +98,12 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
 			<left>
 			<img src="/assets/img/jhx.jpg" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b><a href="https://jianhayes.github.io/">Jianhang Xie</a></b>（谢建行）<br/>
                                     Research Interests: <i>Edge Intelligence, Model Compression, HPC</i> <br/>
@@ -120,12 +120,12 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
 			<left>
 			<img src="/assets/img/liuzhuo.jpg" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Zhuo Liu</b>（刘茁）<br/>
                                     Research Interests: <i>Edge Intelligence, Muti-Task Learning</i> <br/>
@@ -141,12 +141,12 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
 			<left>
 			<img src="/assets/img/lijuan.jpg" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Juan Li</b>（李娟）<br/>
                                     Research Interests: <i>Edge Intelligence, Training Acceleration</i> <br/>
@@ -163,12 +163,12 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
  			<left>
 			<img src="/assets/img/zhanglongquan.jpg" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Longquan Zhang</b>（张龙泉）<br/>
                                     Research Interests: <i>Training Acceleration</i> <br/>
@@ -184,12 +184,12 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 
 <table  rules="none">
 	<tr>
-		<td width="180">
+<!-- 		<td width="180">
 			<left>
 			<img src="/assets/img/caoxu.jpg" width=150/>
 			</left>
 		</td>
-		<td width="600" >
+		<td width="600" > -->
 			<left>
 				<font size="4"><b>Xu Cao</b>（曹旭）<br/>
                                     Research Interests: <i>Training Acceleration</i> <br/>
