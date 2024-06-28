@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='http://scit.bjtu.edu.cn/'>School of Computer and Information Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
+subtitle: <a href='https://cs.bjtu.edu.cn/'>School of Computer Science and Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -28,6 +28,6 @@ We are committed to advancing this field and making significant contributions to
 By harnessing the power of edge computing and machine learning, we aim to build ***intelligent***, ***efficient*** and ***secure*** systems that can operate seamlessly in real-time, right at the edge of the network.
 
 ### For more info
-**Research Institute**: *School of Computer and Information Technology*, *Beijing Jiaotong University*.<br>
+**Research Institute**: *School of Computer Science and Technology*, *Beijing Jiaotong University*.<br>
 **Office**: *Integrating Innovation Center BJTU*, *605* of *Science and Technology Building of BJTU*, *Beijing 100044*.<br>
-[**Github**](https://github.com/bjtuedgeintell) / [**Email**](chtding@bjtu.edu.cn) <br>
+[**Email**](chtding@bjtu.edu.cn) <br>
