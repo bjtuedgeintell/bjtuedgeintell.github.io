@@ -3,7 +3,7 @@ layout: chinesepage
 permalink: /chineseabout/
 title: 中文简介
 chinesetitle: <b>边缘智能</b>实验室
-subtitle: <a href='https://www.bjtu.edu.cn/'>北京交通大学</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://scit.bjtu.edu.cn/'>计算机与信息技术学院</a>
+subtitle: <a href='https://www.bjtu.edu.cn/'>北京交通大学</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://cs.bjtu.edu.cn/'>计算机科学与技术学院</a>
 nav: true
 nav_order: 5
 ---
@@ -29,7 +29,7 @@ nav_order: 5
 
 
 ### **更多信息**
-**研究机构**：*北京交通大学*，*计算机与信息技术学院*<br>
+**研究机构**：*北京交通大学*，*计算机科学与技术学院*<br>
 **办公地点**：*交大科技大厦605*，*北京交通大学融合创新中心*，*北京 100044*<br>
 **中文主页**：[*个人简介*](http://faculty.bjtu.edu.cn/9721/)<br>
-[**Github**](https://github.com/bjtuedgeintell) / [**邮箱**](chtding@bjtu.edu.cn) <br>
+[**邮箱**](chtding@bjtu.edu.cn) <br>
