@@ -86,7 +86,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 			<left>
 				<font size="4"><b>Jianhang Xie</b>（谢建行）<br/>
                                     Research Interests: <b><i>Edge Intelligence, Model Quantization, HPC</i></b> <br/>
-					Jianhang Xie received the BS degree from BJTU in 2022. Now he is currently pursuing MS degree in the the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University. His academic advisors are Prof. Yidong Li and Dr. Chuntao Ding. His research interest includes <i>edge intelligence</i>, <i>model quantization</i>, and <i>high-performance computing</i>. <br/>
+					Jianhang Xie received the BS degree from BJTU in 2022. Now he is currently pursuing MS degree in the Key Laboratory of Big Data & Artificial Intelligence in Transportation, Ministry of Education, with School of Computer and Information Technology, Beijing Jiaotong University. His academic advisors are Prof. Yidong Li and Dr. Chuntao Ding. His research interest includes <i>edge intelligence</i>, <i>model quantization</i>, and <i>high-performance computing</i>. <br/>
 									<a href="mailto:xiejianhang@bjtu.edu.cn">[Email]   </a>
 				</font> 
 			</left>
