@@ -66,6 +66,7 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <br>
 
 ## *Master Student*
+<br>
 <table  rules="none">
 	<tr>
 			<left>
@@ -138,11 +139,26 @@ Jingyi Li received the B.Sc. degree from Central China Normal University, China,
 <br>
 
 
+<table  rules="none">
+	<tr>
+			<left>
+				<font size="4"><b>Te Yang</b> (杨特)<br/>
+                                    Research Interests: <b><i>Edge Intelligence, Model Quantization</i></b> <br/>
+					Te Yang is pursuing a MS degree from School of Computer Science and Technology, BJTU. Her research interests are <i>Edge Intelligence</i> and <i>Model Quantization</i>.<br/>
+				</font> 
+			</left>
+    </tr>
+</table>
+<br>
+<br>
+
+
 # **Alumni**
 ## *Ph.D.*
 <br>
 
 ## *Master*
+<br>
 <table  rules="none">
 	<tr>
 			<left>
