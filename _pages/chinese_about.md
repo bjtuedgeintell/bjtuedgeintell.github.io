@@ -3,7 +3,6 @@ layout: chinesepage
 permalink: /chineseabout/
 title: 中文简介
 chinesetitle: <b>边缘智能</b>实验室
-subtitle: /
 nav: true
 nav_order: 5
 ---
