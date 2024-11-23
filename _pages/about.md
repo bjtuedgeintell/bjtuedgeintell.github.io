@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://cs.bjtu.edu.cn/'>School of Computer Science and Technology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>
+subtitle: /
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 ### About us
-Welcome to the **Edge Intelligence Laboratory**! Our team is initiated by [Dr. Chuntao Ding](http://faculty.bjtu.edu.cn/9721/).
+Welcome to the **Edge Intelligence Laboratory**! Our team is initiated by Dr. Chuntao Ding.
 Our laboratory is dedicated to the cutting-edge field of Edge Intelligence, where we explore the intersection of artificial intelligence and edge computing. 
 Our diverse and talented team comprises both Ph.D. and Master's students, each bringing unique perspectives and expertise to the table. 
 Together, we form a dynamic group that fosters creativity, collaboration, and a shared passion for pushing the boundaries of edge intelligence. 
@@ -28,6 +28,5 @@ We are committed to advancing this field and making significant contributions to
 By harnessing the power of edge computing and machine learning, we aim to build ***intelligent***, ***efficient*** and ***secure*** systems that can operate seamlessly in real-time, right at the edge of the network.
 
 ### For more info
-**Research Institute**: *School of Computer Science and Technology*, *Beijing Jiaotong University*.<br>
-**Office**: *Integrating Innovation Center BJTU*, *605* of *Science and Technology Building of BJTU*, *Beijing 100044*.<br>
-[**Email**](chtding@bjtu.edu.cn) <br>
+**Research Institute**: *School of Artificial Intelligence*, *Beijing Normal University*.<br>
+**Email**: [ctding@bnu.edu.cn](ctding@bnu.edu.cn) <br>
