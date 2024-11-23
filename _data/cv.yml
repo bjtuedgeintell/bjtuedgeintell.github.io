@@ -37,9 +37,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Associate Professor
+      institution: School of Artificial Intelligence, Beijing Normal University
+      year: 2024 - now
     - title: Lecturer
       institution: School of Computer Science and Technology, Beijing Jiaotong University
-      year: 2021 - now
+      year: 2021 - 2024
     #   description:
     #     - Description 1.
     #     - Description 2.
