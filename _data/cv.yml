@@ -1,106 +1,40 @@
-- title: General Information
+- title: Basics
   type: map
   contents:
     - name: Full Name
       value: Chuntao Ding
-    # - name: Date of Birth
-    #   value: 14th March 1879
-    # - name: Languages
-    #   value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Beijing University of Posts and Telecommunications (BUPT), Beijing, China
-      year: 2016.9-2021.6
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: China Scholarships Council Visiting PhD
-      institution: Michigan State University, USA
-      year: 2019.11-2020.11
-    - title: Research Assistant
-      institution: The Hong Kong Polytechnic University (PolyU), HKSAR, China
-      year: 2018.4-2018.12
-    # - title: Federal teaching diploma
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+    - name: Email
+      value: ctding@bnu.edu.cn
 
 - title: Experience
   type: time_table
   contents:
     - title: Associate Professor
       institution: School of Artificial Intelligence, Beijing Normal University
-      year: 2024 - now
+      year: 2024.12 - now
     - title: Lecturer
       institution: School of Computer Science and Technology, Beijing Jiaotong University
-      year: 2021 - 2024
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-    #     - title: Description 3.
-    #       contents:
-    #         - Sub-description 1.
-    #         - Sub-description 2.
-    # - title: Visiting Professor
-    #   institution: California Institute of Technology, Pasadena, California, US
-    #   year: 1933
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+      year: 2021.06 - 2024.12
 
-    # - title: Director
-    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-    #   year: 1917-1933
-
-    # - title: Professor of Theoretical Physics
-    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-    #   year: 1911 - 1917
-    #   description:
-
-    # - title: Associate Professor of Theoretical Physics
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-    #   year: 2015-now
-    #   description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Ph.D.
+      institution: Beijing University of Posts and Telecommunications (BUPT), Beijing, China
+      year: 2016.09-2021.06
+    - title: Visiting Ph.D.
+      institution: Michigan State University, USA
+      year: 2019.11-2020.11
+    - title: Research Assistant
+      institution: The Hong Kong Polytechnic University (PolyU), HKSAR, China
+      year: 2018.04-2018.12
 
 - title: Honors and Awards
   type: time_table
   contents:
-    # - year: 1921
-    #   items: 
-    #     - Nobel Prize in Physics 
-    #     - Matteucci Medal
-    # - year: 2029
-    #   items: 
-    #     - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+    - title: IEEE-CCF Cloud Computing Best Paper Award
+      year: 2024
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Towards Transmission-Friendly and Robust CNN Models over Cloud and Device, IEEE TMC, 2023
+    - title: IEEE TCCLD Outstanding Ph.D. Thesis Award
+      year: 2022
