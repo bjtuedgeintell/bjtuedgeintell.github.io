@@ -6,7 +6,7 @@
     - name: Email
       value: ctding@bnu.edu.cn
 
-- title: Experience
+- title: Work
   type: time_table
   contents:
     - title: Associate Professor
