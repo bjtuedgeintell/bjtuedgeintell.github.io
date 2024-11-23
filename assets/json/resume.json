@@ -3,7 +3,7 @@
     "name": "Chuntao Ding",
     "label": "",
     "image": "",
-    "email": "chtding@bjtu.edu.cn",
+    "email": "ctding@bnu.edu.cn",
     "phone": "",
     "url": "",
     "summary": "",
@@ -17,11 +17,22 @@
   },
   "work": [
     {
+      "name": "Artificial Intelligence, Beijing Normal University, (BNU), Beijing, China",
+      "position": "Associate Professor",
+      "url": "",
+      "startDate": "2024-12",
+      "endDate": "now",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "name": "School of Computer Science and Technology, Beijing Jiaotong University (BJTU), Beijing, China",
       "position": "Lecturer",
       "url": "",
       "startDate": "2021-06",
-      "endDate": "now",
+      "endDate": "2024-12",
       "summary": "",
       "highlights": [
         ""
@@ -69,8 +80,14 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
+      "title": "IEEE-CCF Cloud Computing Best Paper Award",
+      "date": "2024",
+      "awarder": "",
+      "summary": "Towards Transmission-Friendly and Robust CNN Models over Cloud and Device, IEEE TMC, 2023"
+    },
+    {
+      "title": "IEEE TCCLD Outstanding Ph.D. Thesis Award",
+      "date": "2022",
       "awarder": "",
       "summary": ""
     }
@@ -78,16 +95,7 @@
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "",
-      "fluency": ""
-    },
-    {
-      "language": "",
-      "fluency": ""
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
