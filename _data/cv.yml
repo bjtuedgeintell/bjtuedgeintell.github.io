@@ -22,12 +22,18 @@
     - title: Ph.D.
       institution: Beijing University of Posts and Telecommunications (BUPT), Beijing, China
       year: 2016.09-2021.06
+      items:
+        - Supervisor: Shangguang Wang
     - title: Visiting Ph.D.
       institution: Michigan State University, USA
       year: 2019.11-2020.11
+      items:
+        - "Supervisor: Vishnu Naresh Boddeti"
     - title: Research Assistant
       institution: The Hong Kong Polytechnic University (PolyU), Hong Kong SAR, China
       year: 2018.04-2018.12
+      items:
+        - Supervisor: Jiannong Cao
 
 - title: Honors and Awards
   type: time_table
