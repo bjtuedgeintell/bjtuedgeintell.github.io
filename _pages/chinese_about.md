@@ -10,8 +10,8 @@ nav_order: 5
 # **北京交通大学边缘智能小组**实验室
 
 # [北京交通大学](https://www.bjtu.edu.cn/) | [计算机与信息技术学院](http://scit.bjtu.edu.cn/)
-[北京师范大学](https://www.bnu.edu.cn/) | [人工智能学院](https://ai.bnu.edu.cn/)
 -->
+[北京师范大学](https://www.bnu.edu.cn/) | [人工智能学院](https://ai.bnu.edu.cn/)
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/background2.jpg" title="BG" class="img-fluid rounded z-depth-1" alt="a background image." %}
@@ -30,5 +30,5 @@ nav_order: 5
 
 ### **更多信息**
 **研究机构**：*北京师范大学*，*人工智能学院*<br>
-**教师主页**：[丁春涛](https://ai.bnu.edu.cn/xygk/szdw/fgj/781544fd6f094c3491464b492f7e362a.htm)
+**教师主页**：[丁春涛](https://ai.bnu.edu.cn/xygk/szdw/fgj/781544fd6f094c3491464b492f7e362a.htm)<br>
 **邮箱**：[ctding@bnu.edu.cn](ctding@bnu.edu.cn) <br>
