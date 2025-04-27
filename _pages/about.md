@@ -28,4 +28,4 @@ By harnessing the power of edge computing and machine learning, we aim to build 
 
 ### For more info
 **Research Institute**: *School of Artificial Intelligence*, *Beijing Normal University*.<br>
-**Email**: [ctding@bnu.edu.cn](ctding@bnu.edu.cn) <br>
+**Email**: ctding@bnu.edu.cn<br>
