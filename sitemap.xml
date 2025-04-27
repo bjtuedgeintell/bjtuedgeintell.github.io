@@ -9,23 +9,29 @@
 
 <url>
   <loc>https://bjtuedgeintell.github.io/</loc>
-  <lastmod>2023-11-15T03:49:52+00:00</lastmod>
+  <lastmod>2025-04-27T09:23:02+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://bjtuedgeintell.github.io/team/</loc>
-  <lastmod>2023-11-15T03:49:52+00:00</lastmod>
+  <lastmod>2025-04-27T09:23:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bjtuedgeintell.github.io/publications/</loc>
-  <lastmod>2023-11-15T03:49:52+00:00</lastmod>
+  <lastmod>2025-04-27T09:23:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bjtuedgeintell.github.io/cv/</loc>
+  <lastmod>2025-04-27T09:23:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://bjtuedgeintell.github.io/chineseabout/</loc>
-  <lastmod>2023-11-15T03:49:52+00:00</lastmod>
+  <lastmod>2025-04-27T09:23:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+
 
 </urlset>
