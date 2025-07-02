@@ -15,7 +15,7 @@ nav: true
 		</td>
 		<td width="600" >
 			<left>
-				<font size="4"><b>Associate Prof Chuntao Ding@BNU</b> (丁春涛)<br/>
+				<font size="4"><b>Chuntao Ding@BNU</b> (丁春涛)<br/>
 <!--                                     Director & PI <br/> -->
                                     Research Interests: <b><i>Edge Intelligence, Model Compression and Quantization</i></b> <br/>
 					<a href="mailto:chuntaoding@163.com">[Email]   </a>
@@ -62,17 +62,6 @@ nav: true
 <table  rules="none">
 	<tr>
 			<left>
-				<font size="4"><b>Jianhang Xie@BJTU</b> (谢建行)<br/>
-                                    Research Interests: <b><i>Edge Intelligence, Model Quantization</i></b> <br/>
-				</font> 
-			</left>
-    </tr>
-</table>
-<br>
-
-<table  rules="none">
-	<tr>
-			<left>
 				<font size="4"><b>Longquan Zhang@BJTU</b> (张龙泉)<br/>
                                     Research Interests: <b><i>Training Acceleration</i></b> <br/>
 				</font> 
@@ -96,9 +85,18 @@ nav: true
 # **Alumni**
 ## *Ph.D.*
 <br>
-<br>
 
 ## *Master*
+<table  rules="none">
+	<tr>
+			<left>
+				<font size="4"><b>Jianhang Xie@BJTU</b> (谢建行, 2022-2025)<br/>
+				</font> 
+			</left>
+    </tr>
+</table>
+<br>
+
 <table  rules="none">
 	<tr>
 			<left>
